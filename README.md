@@ -74,12 +74,13 @@ Git & GitHub | Agile | API Integration | Problem Solving
 
 ---  
 
-### 📊 GitHub Stats  
 
+## 📊 GitHub Stats
 
-![Divyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshsaxena002&show_icons=true&theme=default)
+<img src="https://github-readme-stats.vercel.app/api?username=divyanshsaxena002&show_icons=true&cache_seconds=1800" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshsaxena002&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshsaxena002&layout=compact&cache_seconds=1800" />
+
 
 
 ---  
