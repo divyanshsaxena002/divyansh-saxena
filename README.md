@@ -17,32 +17,71 @@ I am a **pre-final year B.Tech student** passionate about **software development
 
 ---  
 
-### 🔥 Featured Projects  
-📊 **SortScout** – A product comparison app using the **Weighted Scoring Method (WSM)** for ranking products across multiple e-commerce platforms.  
+### 🚀 Featured Projects
 
-📈 **Pair Trading for Crypto Market** – Algorithmic trading strategy implementation for crypto market analysis.  
+🔹 **CafeOps**  
+Full-stack café management platform with customer, inventory, and order modules.  
+Tech: React, Node.js, Tailwind CSS, REST APIs  
 
-☁️ **Cloud-Based File Storage & Sharing System** – A secure cloud storage system similar to Dropbox, leveraging **AWS S3** for scalable storage.  
+🔹 **Cloud-Based File Storage System (IBM Project)**  
+Secure file storage with authentication, encryption, and access control.  
+Tech: AWS S3, Azure Blob Storage  
 
-🌍 **Real-Time Disaster Alert Web App** – Uses **USGS API** to provide instant earthquake alerts and disaster tracking.  
+🔹 **StayFinder**  
+Airbnb-inspired property rental platform with listings and booking system.  
+Tech: MERN Stack  
 
-🎉 **Event Management Web App** – A **React & MySQL-based** platform for organizing and managing university events.  
+🔹 **ML Model Trainer Web App**  
+Upload datasets, perform EDA, train ML models, and visualize results.  
+Tech: Python, Streamlit, scikit-learn, SHAP, Evidently AI
+
 
 ---  
 
-### 🚀 Skills & Tools  
-- **Programming:** C, C++, Python, Java, JavaScript  
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions, OpenStack  
-- **Databases:** MySQL, NoSQL, Redis  
-- **Frontend & Backend:** React, Flask, Django  
-- **Other:** Data Structures, Algorithms, CI/CD, Networking, Security  
+
+
+### 🧑‍💻 Experience
+
+**Software Engineering Intern – Globus Soft Technologies (Bengaluru)**  
+- Built and optimized full-stack features using MERN stack  
+- Integrated RESTful APIs and AWS services  
+- Collaborated in Agile sprints and code reviews  
+- Improved UI/UX and automated workflows
+
+
+---  
+
+### 💻 Tech Stack
+
+**Languages:**  
+Java | Python | JavaScript | C  
+
+**Frontend:**  
+React.js | HTML5 | CSS3 | Tailwind CSS  
+
+**Backend:**  
+Node.js | Express.js | Spring Boot | REST APIs  
+
+**Databases:**  
+MongoDB | MySQL | SQL  
+
+**Cloud & DevOps:**  
+AWS (S3, EKS, Serverless) | Cloud Computing Basics  
+
+**Tools & Practices:**  
+Git & GitHub | Agile | API Integration | Problem Solving
+
 
 ---  
 
 ### 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshsaxena002&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshsaxena002&layout=compact&theme=tokyonight)  
+## 📊 GitHub Stats
+
+![Divyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshsaxena002&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshsaxena002&layout=compact)
+
 
 ---  
 
