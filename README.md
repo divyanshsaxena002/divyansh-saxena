@@ -76,7 +76,6 @@ Git & GitHub | Agile | API Integration | Problem Solving
 
 ### 📊 GitHub Stats  
 
-## 📊 GitHub Stats
 
 ![Divyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshsaxena002&show_icons=true&theme=default)
 
